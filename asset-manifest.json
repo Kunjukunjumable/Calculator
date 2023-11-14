@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kunjukunjumable/Calculator.git/static/css/main.5fc7dc14.css",
+    "main.js": "/Kunjukunjumable/Calculator.git/static/js/main.48c9a6fb.js",
+    "static/js/787.5f81c7f8.chunk.js": "/Kunjukunjumable/Calculator.git/static/js/787.5f81c7f8.chunk.js",
+    "static/media/logo.svg": "/Kunjukunjumable/Calculator.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kunjukunjumable/Calculator.git/index.html",
+    "main.5fc7dc14.css.map": "/Kunjukunjumable/Calculator.git/static/css/main.5fc7dc14.css.map",
+    "main.48c9a6fb.js.map": "/Kunjukunjumable/Calculator.git/static/js/main.48c9a6fb.js.map",
+    "787.5f81c7f8.chunk.js.map": "/Kunjukunjumable/Calculator.git/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc7dc14.css",
+    "static/js/main.48c9a6fb.js"
+  ]
+}
